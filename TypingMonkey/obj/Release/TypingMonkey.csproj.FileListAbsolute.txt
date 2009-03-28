@@ -1,0 +1,9 @@
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\bin\Release\TypingMonkey.exe
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\bin\Release\TypingMonkey.pdb
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Release\ResolveAssemblyReference.cache
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Release\TypingMonkey.MainForm.resources
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Release\TypingMonkey.Properties.Resources.resources
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Release\TypingMonkey.AppResources.resources
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Release\TypingMonkey.csproj.GenerateResource.Cache
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Release\TypingMonkey.exe
+C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Release\TypingMonkey.pdb
