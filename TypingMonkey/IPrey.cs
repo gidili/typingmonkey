@@ -5,6 +5,9 @@ using System.Text;
 
 namespace TypingMonkey.Entity
 {
+    /// <summary>
+    /// IPrey interface (what a useless comment)
+    /// </summary>
     interface IPrey
     {
         /// <summary>
