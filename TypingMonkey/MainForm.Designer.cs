@@ -84,7 +84,7 @@
             this.InputBox.Name = "InputBox";
             this.InputBox.Size = new System.Drawing.Size(434, 68);
             this.InputBox.TabIndex = 3;
-            this.InputBox.Text = "Put text to evolve here!";
+            this.InputBox.Text = "Put text to evolve here";
             this.toolTipHelp.SetToolTip(this.InputBox, "If your input is quite long make sure to go out for lunch. \r\nAnd make it a big on" +
                     "e!");
             // 
