@@ -23,4 +23,4 @@ Just double-click TypingMonkey.exe to launch the application.
 In order to debug/build locally Visual Studio 2008 Professional/Express is required:
 http://www.microsoft.com/exPress/download/ 
 
-Onve Visual Studio is installed just double-click TypingMonkey.sln file to launch the soltution.
+Once Visual Studio is installed just double-click TypingMonkey.sln file to launch the soltution.
