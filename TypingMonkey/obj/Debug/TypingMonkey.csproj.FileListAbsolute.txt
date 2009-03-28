@@ -7,3 +7,5 @@ C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Debug\T
 C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Debug\TypingMonkey.exe
 C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Debug\TypingMonkey.pdb
 C:\Development\Visual Studio 2008\Projects\TypingMonkey\TypingMonkey\obj\Debug\TypingMonkey.AppResources.resources
+C:\Users\John_Idol\typingmonkey\TypingMonkey\obj\Debug\TypingMonkey.exe
+C:\Users\John_Idol\typingmonkey\TypingMonkey\obj\Debug\TypingMonkey.pdb
