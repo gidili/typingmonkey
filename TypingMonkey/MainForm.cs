@@ -133,13 +133,13 @@ namespace TypingMonkey
         /// <param name="errorList"></param>
         private void CheckErrorList(List<Object> errorList)
         {
-            /// RQMT_Unboxing - from Object (reference type) to bool (value built-in type)
+            /// Unboxing - from Object (reference type) to bool (value built-in type)
             bool isPopulationSizeValid = (bool)errorList[(int)InputType.PopulationSize];
             bool isInputTextLengthValid = (bool)errorList[(int)InputType.InputText];
 
             string errorMsg = string.Empty;
 
-            /// RQMT_CustomExceptionHandling - throwing specialised exception with custom errorMessage
+            /// Throwing specialised exception with custom errorMessage
             if (!isPopulationSizeValid && !isInputTextLengthValid)
             { 
                 errorMsg = String.Format("Population Size ({0}-{1}) and Input Text Lenght ({2}-{3}) are invalid", 

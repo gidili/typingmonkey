@@ -10,8 +10,6 @@ namespace TypingMonkey.Entity
 {
     /// <summary>
     /// Concrete Prey - in our case is just a common string (fighting for survival!).
-    /// RQMT_UsingGenericClass
-    /// RQMT_Inheritance
     /// </summary>
     class EvoString:APrey<string>
     {

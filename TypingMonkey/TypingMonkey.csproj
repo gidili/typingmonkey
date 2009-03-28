@@ -56,7 +56,6 @@
     <Compile Include="EvoStringPredator.cs" />
     <Compile Include="IFitnessEvaluator.cs" />
     <Compile Include="InputValidator.cs">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="InvalidInputException.cs" />
     <Compile Include="IPredator.cs" />

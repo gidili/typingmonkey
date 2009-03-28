@@ -6,9 +6,7 @@ using System.Text;
 namespace TypingMonkey
 {
     /// <summary>
-    /// RQMT_ImplementException - implementing specialized exception class.
     /// Derived from built-in exception.
-    /// RQMT_Inheritance - using base class contructor.
     /// </summary>
     class InvalidInputException:Exception
     {
@@ -20,7 +18,7 @@ namespace TypingMonkey
         }
 
         /// <summary>
-        /// RQMT_Overloading - Demonstrating constructor overloading 
+        /// Constructor overloading 
         /// </summary>
         /// <param name="errorMessage"></param>
         public InvalidInputException(string errorMessage):base(errorMessage)

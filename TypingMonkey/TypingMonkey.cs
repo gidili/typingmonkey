@@ -13,7 +13,7 @@ namespace TypingMonkey
     /// </remarks>
     class TypingMonkey
     {
-        private const string legalCharacters = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
+        private const string legalCharacters = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890.";
 
         static Random random = new Random();
 

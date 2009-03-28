@@ -6,8 +6,6 @@ using System.Text;
 namespace TypingMonkey.Entity
 {
     /// <summary>
-    ///  RQMT_AbstractClass - an abstract class implements common features.
-    ///  RQMT_GenericClass
     ///  This method is very powerful combined with Interfaces.
     /// </summary>
     abstract class APrey<T>:IPrey
@@ -21,7 +19,6 @@ namespace TypingMonkey.Entity
 
         /// <summary>
         /// Generic method to reset prey chromosome.
-        /// RQMT_GenericMethod
         /// </summary>
         /// <param name="newChromosome">New Generic Chromosome.</param>
         public void ResetChromosome(T newChromosome)
