@@ -20,5 +20,3 @@ http://www.microsoft.com/downloads/details.aspx?FamilyId=333325FD-AE52-4E35-B531
 
 In order to debug/build locally Visual Studio 2008 Professional/Express is required:
 http://www.microsoft.com/exPress/download/ 
-
-Once Visual Studio is installed just double-click TypingMonkey.sln file to launch the soltution.
