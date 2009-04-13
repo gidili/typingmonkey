@@ -21,7 +21,6 @@ namespace TypingMonkey
         /// The Typing Monkey Generates a random string with the given length.
         /// </summary>
         /// <param name="size">Size of the string</param>
-        /// <param name="lowerCase">If true, generate lowercase string</param>
         /// <returns>Random string</returns>
         public string TypeAway(int size)
         {
