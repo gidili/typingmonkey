@@ -1,4 +1,4 @@
-- TYPING MONKEY - 
+->TYPING MONKEY<-- 
 
 Evolve an input string from a population of random strings using a genetic algorithm
 
