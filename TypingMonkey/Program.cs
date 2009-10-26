@@ -29,7 +29,7 @@ namespace TypingMonkey
         [STAThread]
         static void Main()
         {
-            if (!IsThisProcessIsAlreadyRunning())
+            if (!IsThisProcessAlreadyRunning())
             {
                 Application.EnableVisualStyles();
                 Application.SetCompatibleTextRenderingDefault(false);
@@ -41,7 +41,7 @@ namespace TypingMonkey
             }
         }
 
-        public static bool IsThisProcessIsAlreadyRunning()
+        public static bool IsThisProcessAlreadyRunning()
         {
             bool createdNew;
             mutex = new Mutex(false, Application.ProductName, out createdNew);
